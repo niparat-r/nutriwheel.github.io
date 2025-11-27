@@ -1,0 +1,5 @@
+{
+  "name": "NutriWheel AI",
+  "description": "An AI-powered food randomizer and nutrition advisor using Gemini.",
+  "requestFramePermissions": []
+}
